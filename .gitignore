@@ -1,0 +1,12 @@
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock
+.terraform/
+.DS_Store
+*.iml
+.idea
+.terraform.*
+kubeconfig_*
+.env.secrets
+*.pdf
+*.bkup
